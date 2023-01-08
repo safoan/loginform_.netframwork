@@ -1,0 +1,36 @@
+E:\visual studio repo\login form\login form\bin\Debug\login form.exe.config
+E:\visual studio repo\login form\login form\bin\Debug\login form.exe
+E:\visual studio repo\login form\login form\bin\Debug\login form.pdb
+E:\visual studio repo\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+E:\visual studio repo\login form\login form\obj\Debug\login form.csproj.SuggestedBindingRedirects.cache
+E:\visual studio repo\login form\login form\obj\Debug\login_form.Form1.resources
+E:\visual studio repo\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+E:\visual studio repo\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+E:\visual studio repo\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+E:\visual studio repo\login form\login form\obj\Debug\login form.exe
+E:\visual studio repo\login form\login form\obj\Debug\login form.pdb
+C:\Users\User\Source\Repos\loginform\login form\login form\bin\Debug\login form.exe.config
+C:\Users\User\Source\Repos\loginform\login form\login form\bin\Debug\login form.exe
+C:\Users\User\Source\Repos\loginform\login form\login form\bin\Debug\login form.pdb
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login form.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login_form.Form1.resources
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login form.exe
+C:\Users\User\Source\Repos\loginform\login form\login form\obj\Debug\login form.pdb
+C:\Users\User\Source\Repos\loginform\login form\login form\bin\Debug\loginDB.mdf
+C:\Users\User\Source\Repos\loginform\login form\login form\bin\Debug\loginDB_log.ldf
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login form.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login_form.Form1.resources
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login_form.menuform.resources
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login form.exe
+C:\Users\User\Documents\GitHub\loginform\login form\login form\obj\Debug\login form.pdb
+C:\Users\User\Documents\GitHub\loginform\login form\login form\bin\Debug\login form.exe.config
+C:\Users\User\Documents\GitHub\loginform\login form\login form\bin\Debug\login form.exe
+C:\Users\User\Documents\GitHub\loginform\login form\login form\bin\Debug\login form.pdb
